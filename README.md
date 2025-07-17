@@ -43,8 +43,6 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/msamb
 |----------------|----------|
 | CNN               | 72%      |
 
-_(Update the table above based on your actual results)_
-
 # How to Run
 
 1. Clone this repository:
